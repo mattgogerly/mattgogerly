@@ -8,7 +8,7 @@ My name's Matt. I'm a software engineer at JPMorgan Chase & Co working on Spinna
 
 # 📖 Education
 * BSc Computer Science (University of Southampton, 2016-2019)
-* AWS Certified Solutions Architect (Associate) (In Progress)
+* AWS Certified Solutions Architect (Associate)
 
 
 # 📱 Get in touch
