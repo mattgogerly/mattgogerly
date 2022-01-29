@@ -1,5 +1,5 @@
 # 👋🏻 Hello!
-My name's Matt. I'm a software engineer at JPMorgan Chase & Co working on Spinnaker.
+My name's Matt. I'm a software engineer working on Spinnaker.
 
 
 # 🔧 Tools & Tech
