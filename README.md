@@ -8,7 +8,6 @@ My name's Matt. I'm a software engineer working on Continuous Delivery.
 
 # 📖 Education
 * BSc Computer Science (University of Southampton, 2016-2019)
-* HashiCorp Terraform Associate
 * Certified Kubernetes Application Developer (CKAD)
 * AWS Certified Solutions Architect (Associate) - expired Nov 2024
 
